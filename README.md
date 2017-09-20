@@ -16,7 +16,7 @@ Dentro de "Identificación" tendremos las siguientes implementaciones y opciones
 - "Dar de Alta" (donde se dará de alta a un conductor con su vehículo si previamente no ha sido dado de alta, asignándose los puntos de carnet iniciales).
 - "Dar de Baja" (donde se dará de baja a un conductor con su vehículo si previamente ha sido dado de alta y no tiene ninguna multa anterior).
 
-* Cambios a realizar para el correcto funcionamiento del proyecto * 
+Cambios a realizar para el correcto funcionamiento del proyecto 
 
 - Paso 1: Una vez descargado el proyecto, compilar todas las soluciones para que se generen los correspondientes .dll necesarios para sus referencias.
 
