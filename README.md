@@ -18,8 +18,8 @@ Dentro de "Identificación" tendremos las siguientes implementaciones y opciones
 
 * Cambios a realizar para el correcto funcionamiento del proyecto * 
 
-  1 - Una vez descargado el proyecto, compilar todas las soluciones para que se generen los correspondientes .dll necesarios para sus referencias.
+- Paso 1: Una vez descargado el proyecto, compilar todas las soluciones para que se generen los correspondientes .dll necesarios para sus referencias.
 
-  2 - Añadir las referencias necesarias de cada solución. Realizamos click derecho en la solución y elegir la opción de "Agregar" -> "Referencia", le damos a "Examinar", y buscamos la referencia del proyecto que necesitamos en la carpeta de la solución, en la dirección a modo de ejemplo ComunDGTMultas/obj/Debug/ y seleccionamos el archivo ComunDGTMultas.dll. Dicho .dll, como se ha comentado antes, se genera tras haber compilado cada uno de las soluciones.
+- Paso 2: Añadir las referencias necesarias de cada solución. Realizamos click derecho en la solución y elegir la opción de "Agregar" -> "Referencia", le damos a "Examinar", y buscamos la referencia del proyecto que necesitamos en la carpeta de la solución, en la dirección a modo de ejemplo ComunDGTMultas/obj/Debug/ y seleccionamos el archivo ComunDGTMultas.dll. Dicho .dll, como se ha comentado antes, se genera tras haber compilado cada uno de las soluciones.
 
-  3 - Comprobar que todas las referencias estén bien añadidas y no genere ningún tipo de error de compilación, y ejecutar primeramente la solución "ServidorMultas", y una vez ejecutado y que se haya abierto el terminal correspondiente, ejecutar "ClienteMultas" para una ejecución en 'texto plano' o "InterfazGrafica" para una ejecución con 'Diseño de Interfaz de Usuario'.
+- Paso 3: Comprobar que todas las referencias estén bien añadidas y no genere ningún tipo de error de compilación, y ejecutar primeramente la solución "ServidorMultas", y una vez ejecutado y que se haya abierto el terminal correspondiente, ejecutar "ClienteMultas" para una ejecución en 'texto plano' o "InterfazGrafica" para una ejecución con 'Diseño de Interfaz de Usuario'.
